@@ -1,13 +1,13 @@
 # Lambda App Store Connect Guide
 
 
-**Required**: You must first request access by filling out this [form](https://forms.gle/WmS5j6tcW9XFEEGv7)
+### **Required**: *You must first request access by filling out this [form](https://forms.gle/WmS5j6tcW9XFEEGv7)*
 
 You will receive an invite via email within 24 hours. If it doesn't arrive within that time, check your junk mail to be sure it didn't end up there. If you are still experiencing issues, reach out to your TL for additional assistance.
 
 ## Ground Rules
 
-Students working with the Lambda School AppStore Connect and the Apple Developer accounts have the permissions to BREAK things. Please observe the following rules so we can avoid a catastrophe:
+Students working with the Lambda School AppStore Connect and the Apple Developer accounts have the ability to easily BREAK things. Please observe the following rules so we can avoid a catastrophe:
 
 1. **NEVER, EVER (Nope, *NEVER*) revoke or otherwise delete, modify, fold, spindle or mutilate a certificate, ID or profile that you did not personally create.**
 2. **There is *no need* to create your own Production (Distribution) Certificate** - *there are a limited number of certificates overall, and only a handful of those can be issued for Production (Distribution). We have a shared Certificate set up for Lambda Students already, which will be provided to you.*
