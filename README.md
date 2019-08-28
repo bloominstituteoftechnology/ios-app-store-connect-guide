@@ -24,12 +24,12 @@ Once you have been added to Lambda, Inc Apple Development Team:
 	![Select my apps](./Assets/Images/1.Select-my-apps.png)
 	
 3. Click the "+" button to add a "New App"
-
-	![Create a New App](./Assets/Images/2.Create a New App.png)
-
+    
+    ![Create a new App](./Assets/Images/2.Create-a-New-App.png)
+    
 4. Click "Register a new bundle ID in Certificates, Identifiers & Profiles"
 	
-	![Register a New Bundle ID](./Assets/Images/3.Register a New Bundle ID.png)
+	![Register a New Bundle ID](./Assets/Images/3.Register-a-New-Bundle-ID.png)
 	
 5. Select 'Identifiers' from the left Navigation panel, then click the '+' to add a new bundle identifier.
 
