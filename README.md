@@ -80,4 +80,4 @@ Once you have been added to Lambda, Inc Apple Development Team:
 
 	![Finish Adding New App](./Assets/Images/13.FinishAddingNewApp.png)
 	
-19. **BOOM!** *You are now ready to fill out App Information and submit a build to TestFlight.* [**Click Here for Next Steps**](https://help.apple.com/xcode/mac/current/#/dev91fe7130a)
+19. **BOOM!** *You are now ready to fill out App Information and submit a build to TestFlight.* [**Click Here**](https://help.apple.com/xcode/mac/current/#/dev91fe7130a) and [**Here**](https://help.apple.com/xcode/mac/current/#/dev2539d985f) for **Next Steps**
