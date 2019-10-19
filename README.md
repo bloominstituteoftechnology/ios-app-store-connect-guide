@@ -64,7 +64,7 @@ Once you have been added to Lambda, Inc Apple Development Team:
 
 	![Generate a Provisioning Profile](./Assets/Images/9.GenerateProvisioningProfile.png)
 	
-15. **Important!!** *make sure you select the correct Distribution Certificate. This must match the certicicate installed on your machine. For pre-Xcode 11, choose `Lambda, Inc (iOS Distribution) Jun 09, 2020` and for Xcode 11 and above, choose `Lambda, Inc (Distribution) For use in Xcode 11 or later Jun 09, 2020`*, then click 'Continue'
+15. **Important!!** *make sure you select the correct Distribution Certificate. This must match the certicicate installed on your machine. For Xcode 11 and above, choose `Lambda, Inc (Distribution) For use in Xcode 11 or later Sep 23, 2020` If you are still developing with Xcode 10.X.X, choose `Lambda, Inc (iOS Distribution) Aug 24, 2020`, then click 'Continue'*
 
 	![Choose a Distribution Certificate](./Assets/Images/10.ChooseDistributionCertificate.png)
 	
