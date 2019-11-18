@@ -8,10 +8,11 @@ You will receive an invite via email within 24 hours. If it doesn't arrive withi
 ## Ground Rules
 
 Students working with the Lambda School AppStore Connect and the Apple Developer accounts have the ability to easily BREAK things. Please observe the following rules so we can avoid a catastrophe:
-
-1. **NEVER, EVER (Nope, *NEVER*) revoke or otherwise delete, modify, fold, spindle or mutilate a certificate, ID or profile that you did not personally create.**
-2. **There is *no need* to create your own Production (Distribution) Certificate** - *there are a limited number of certificates overall, and only a handful of those can be issued for Production (Distribution). We have a shared Certificate set up for Lambda Students already, which will be provided to you.*
-3. **If you are unsure of whether what you are about to do will, in fact, break something, please ask someone** - *Your instructors, Team Leads and Section Lead are always happy to assist when available.*
+## **FIRST RULE OF APPSTORE CONNECT - YOU DO NOT CREATE OR DELETE LAMBDA PRODUCTION (AKA DISTRIBUTION) CERTIFICATES.**
+### **SECOND RULE OF APPSTORE CONNECT - YOU DO NOT CREATE OR DELETE LAMBDA PRODUCTION (AKA DISTRIBUTION) CERTIFICATES.**
+3. **NEVER, EVER (Nope, *NEVER*) revoke or otherwise delete *ANY* certificate, ID or provisioning profile that you did not personally create.**
+4. **DO *NOT* create your own Production (AKA Distribution) Certificate** - *there are a limited number of certificates overall, and only a handful of those can be issued for Production (AKA Distribution). We have a shared Certificate set up for Lambda Students already, which will be provided to you.*
+5. **If you are unsure of whether what you are about to do will, in fact, break something, please ask someone who does** - *Your instructors, Team Leads and Section Lead are always happy to assist during working hours.*
 
 ## Guide
 
