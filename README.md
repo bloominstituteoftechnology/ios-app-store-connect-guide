@@ -3,16 +3,32 @@
 
 ### **Required**: *You must first request access by filling out this [form](https://forms.gle/WmS5j6tcW9XFEEGv7)*
 
-You will receive an invite via email within 24 hours. If it doesn't arrive within that time, check your junk mail to be sure it didn't end up there. If you are still experiencing issues, reach out to your TL for additional assistance.
+You will receive an invite via email within 24 hours. If it doesn't arrive within that time:
 
-## Ground Rules for All Student Developers
+1. Check your junk mail to be sure it didn't end up there. This is the most common reason why students don't see the invitaion email.
+ 
+2. Make sure that the email address that you provided is the same as your AppleID (i.e. the same one you use to log into your iCloud account).
+
+3. If you are still experiencing issues, reach out to your TL, SL or Instructor for additional assistance.
+
+## Overview for *All* Student Developers
 
 Student developers working within the Lambda School App Store Connect and the Apple Developer accounts have the ability to easily BREAK things. Please observe the following rules so we can avoid a catastrophe:
-## **FIRST RULE OF APP STORE CONNECT - YOU DO NOT CREATE OR DELETE LAMBDA PRODUCTION (AKA DISTRIBUTION) CERTIFICATES.**
-### **SECOND RULE OF APP STORE CONNECT - YOU DO NOT CREATE OR DELETE LAMBDA PRODUCTION (AKA DISTRIBUTION) CERTIFICATES.**
-3. **NEVER, EVER (Nope, *NEVER*) revoke or otherwise delete *ANY* certificate, ID or provisioning profile that you did not personally create.**
-4. **DO *NOT* create your own Production (AKA Distribution) Certificate** - *there are a limited number of certificates overall, and only a handful of those can be issued for Production (AKA Distribution). We have a shared Certificate set up for Lambda Students already, which will be provided to you.*
-5. **If you are unsure of whether what you are about to do will, in fact, break something, please ask someone who does** - *Your instructors, Team Leads and Section Lead are always happy to assist during working hours.*
+
+##  *FIRST RULE OF APP STORE CONNECT* - YOU DO NOT CREATE OR DELETE LAMBDA PRODUCTION CERTIFICATES.
+
+###  *SECOND RULE OF APP STORE CONNECT* : YOU DO NOT CREATE OR DELETE LAMBDA PRODUCTION CERTIFICATES.
+
+## All levity aside -
+
+###Please...
+
+1. **NEVER, EVER (Nope, *NOT EVEN IN AN ALTERNATE UNIVERSE WITH MULTIPLE TIMELINES*) revoke or otherwise delete *ANY* certificate, ID or provisioning profile that you did not personally create.**
+
+2. **DO *NOT* create your own Production (AKA Distribution) Certificate** - *there are a limited number of certificates overall, and only a handful of those can be issued for Production (AKA Distribution). We have a shared Certificate set up for Lambda Students already, which will be provided to you.*
+
+3. **If you are unsure of whether what you are about to do will, in fact, break something, please ask someone who does** - *Your instructors, Team Leads and Section Leads are always happy to assist during working hours.*
+
 
 ## Walkthrough Guide for "App Manager" Role
 If you have been assigned the role of App Manager, you will be responsible for some additional tasks that are required to setup and submit your app to App Store Connect for Internal or Public Test Flight Beta testing as well as distribution on Apple's App Store.  This process can often seem finicky and frustrating, but once you overcome the learning curve, you'll be able to solve the most common issues easily. Folowing this document and asking for assistance from your TL, SL or instructor when you are unsure of something is the best way to a successful App submission.
