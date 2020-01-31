@@ -5,18 +5,19 @@
 
 You will receive an invite via email within 24 hours. If it doesn't arrive within that time, check your junk mail to be sure it didn't end up there. If you are still experiencing issues, reach out to your TL for additional assistance.
 
-## Ground Rules
+## Ground Rules for All Student Developers
 
-Students working with the Lambda School AppStore Connect and the Apple Developer accounts have the ability to easily BREAK things. Please observe the following rules so we can avoid a catastrophe:
-## **FIRST RULE OF APPSTORE CONNECT - YOU DO NOT CREATE OR DELETE LAMBDA PRODUCTION (AKA DISTRIBUTION) CERTIFICATES.**
-### **SECOND RULE OF APPSTORE CONNECT - YOU DO NOT CREATE OR DELETE LAMBDA PRODUCTION (AKA DISTRIBUTION) CERTIFICATES.**
+Student developers working within the Lambda School App Store Connect and the Apple Developer accounts have the ability to easily BREAK things. Please observe the following rules so we can avoid a catastrophe:
+## **FIRST RULE OF APP STORE CONNECT - YOU DO NOT CREATE OR DELETE LAMBDA PRODUCTION (AKA DISTRIBUTION) CERTIFICATES.**
+### **SECOND RULE OF APP STORE CONNECT - YOU DO NOT CREATE OR DELETE LAMBDA PRODUCTION (AKA DISTRIBUTION) CERTIFICATES.**
 3. **NEVER, EVER (Nope, *NEVER*) revoke or otherwise delete *ANY* certificate, ID or provisioning profile that you did not personally create.**
 4. **DO *NOT* create your own Production (AKA Distribution) Certificate** - *there are a limited number of certificates overall, and only a handful of those can be issued for Production (AKA Distribution). We have a shared Certificate set up for Lambda Students already, which will be provided to you.*
 5. **If you are unsure of whether what you are about to do will, in fact, break something, please ask someone who does** - *Your instructors, Team Leads and Section Lead are always happy to assist during working hours.*
 
-## Guide
+## Walkthrough Guide for "App Manager" Role
+If you have been assigned the role of App Manager, you will be responsible for some additional tasks that are required to setup and submit your app to App Store Connect for Internal or Public Test Flight Beta testing as well as distribution on Apple's App Store.  This process can often seem finicky and frustrating, but once you overcome the learning curve, you'll be able to solve the most common issues easily. Folowing this document and asking for assistance from your TL, SL or instructor when you are unsure of something is the best way to a successful App submission.
 
-Once you have been added to Lambda, Inc Apple Development Team:
+Once you have been added to Lambda, Inc Apple Development Team as App Manager:
 
 1. Download the distribution certificate - It will be posted in the main iOS Slack channel for your section (i.e. iOS6) To install it to your keychain, simply double-click the downloaded certificate and folllow the prompts.
 
@@ -81,4 +82,4 @@ Once you have been added to Lambda, Inc Apple Development Team:
 
 	![Finish Adding New App](./Assets/Images/13.FinishAddingNewApp.png)
 	
-19. **BOOM!** *You are now ready to fill out App Information and submit a build to TestFlight.* [**Click Here**](https://help.apple.com/xcode/mac/current/#/dev91fe7130a) and [**Here**](https://help.apple.com/xcode/mac/current/#/dev2539d985f) for **Next Steps**
+# 19. **BOOM!** *You are now ready to fill out App Information and submit a build to TestFlight.* [**Click Here**](https://help.apple.com/xcode/mac/current/#/dev91fe7130a) and [**Here**](https://help.apple.com/xcode/mac/current/#/dev2539d985f) for **Next Steps**
