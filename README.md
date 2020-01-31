@@ -21,7 +21,7 @@ Student developers working within the Lambda School App Store Connect and the Ap
 
 ## All levity aside -
 
-###Please...
+### Please...
 
 1. **NEVER, EVER (Nope, *NOT EVEN IN AN ALTERNATE UNIVERSE WITH MULTIPLE TIMELINES*) revoke or otherwise delete *ANY* certificate, ID or provisioning profile that you did not personally create.**
 
