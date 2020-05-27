@@ -24,12 +24,14 @@ You will work on an iOS app that likely other students have worked on before. If
     * Your instructor will provide each team with a provisioning profile for your app in Slack. The file will look something like this: `AppName_App_Store_Provisioning_Profile.mobileprovision`, where `AppName` is the name of your app project.
 4. Once the above file is downloaded to your Mac, open your Xcode project and go to the Xcode project properties screen (the blueprint icon in the file navigator). Click into the tab marked **Signing & Capabilities**.
 5. Uncheck the box marked *Automatically manage signing*. This will generate an error in the status field of this screen.
+![Xcode signing config](https://raw.githubusercontent.com/LambdaSchool/ios-app-store-connect-guide/master/Assets/Images/xcode-import-profile.png)
 6. Click the dropdown menu marked *Provisioning Profile* and choose **Import Profile...**
 7. Choose from your filesystem the `.mobileprovision` file you downloaded in step 3.
 
 Your project is now configured to upload builds to TestFlight.
 
 NOTE: The version number listed in your project is probably `1.0`, which is fine. The build number however must be unique for each build you upload to TestFlight. The first one will probably be build `1`, but if previous students have worked on this app, the number could be higher. Check with your TL to find out what appropriate build number should be used before following the steps below to upload to TestFlight.
+![Xcode version and build config](https://raw.githubusercontent.com/LambdaSchool/ios-app-store-connect-guide/master/Assets/Images/xcode-version-build.png)
 
 ### Upload a Build to TestFlight
 
