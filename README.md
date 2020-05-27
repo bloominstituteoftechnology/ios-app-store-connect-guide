@@ -13,7 +13,7 @@ You will work on an iOS app that likely other students have worked on before. If
 
 ### Certificate Installation
 
-1. Download Lambda School's distribution certificate to your compputer. This file will be sent to your class in your private class channel at the start of Build Week in Unit 3 (uploading to TestFlight is recommended but not required in Unit 3, and required in Unit 4).
+1. Download Lambda School's distribution certificate to your computer. This file will be sent to your class in your private class channel at the start of Build Week in Unit 3 (uploading to TestFlight is recommended but not required in Unit 3, and required in Unit 4).
     * The filename for this certificate will look like this: `Lambda_Shared_Apple_All_Platforms_Distribution_Certificate.p12`
 2. Double click this file to install in your Mac's Keychain.
     * The Keychain app will ask for a password to install this certificate. Look for the password alongside the file in your cohort's class channel.
@@ -21,13 +21,13 @@ You will work on an iOS app that likely other students have worked on before. If
 ### Provisioning Profile Installation
 
 3. Please fill out [this form](https://forms.gle/Uom2CMpSosmJH87j6) after your Build Week kickoff meeting. **You must fill out this form *once per team*.**
-3. Each app that gets uploaded to App Store Connect (the interface Apple provides for testing and distributing iOS apps) needs a provisioning profile. This file is unique to the Apple Developer account and to the app itself. When you filled out the form above, you provided name for the app you're working on for Build Week as well as the *bundle identifier*. Make sure the bundle ID from the form is the same as what's listed in Xcode's project properties screen.
+4. Each app that gets uploaded to App Store Connect (the interface Apple provides for testing and distributing iOS apps) needs a provisioning profile. This file is unique to the Apple Developer account and to the app itself. When you filled out the form above, you provided name for the app you're working on for Build Week as well as the *bundle identifier*. Make sure the bundle ID from the form is the same as what's listed in Xcode's project properties screen.
     * Your instructor will provide each team with a provisioning profile for your app in Slack. The file will look something like this: `AppName_App_Store_Provisioning_Profile.mobileprovision`, where `AppName` is the name of your app project.
-4. Once the above file is downloaded to your Mac, open your Xcode project and go to the Xcode project properties screen (the blueprint icon in the file navigator). Click into the tab marked **Signing & Capabilities**.
-5. Uncheck the box marked *Automatically manage signing*. This will generate an error in the status field of this screen.
+5. Once the above file is downloaded to your Mac, open your Xcode project and go to the Xcode project properties screen (the blueprint icon in the file navigator). Click into the tab marked **Signing & Capabilities**.
+6. Uncheck the box marked *Automatically manage signing*. This will generate an error in the status field of this screen.
 ![Xcode signing config](https://raw.githubusercontent.com/LambdaSchool/ios-app-store-connect-guide/master/Assets/Images/xcode-import-profile.png)
-6. Click the dropdown menu marked *Provisioning Profile* and choose **Import Profile...**
-7. Choose from your filesystem the `.mobileprovision` file you downloaded in step 3.
+7. Click the dropdown menu marked *Provisioning Profile* and choose **Import Profile...**
+8. Choose from your filesystem the `.mobileprovision` file you downloaded in step 3.
 
 Your project is now configured to upload builds to TestFlight.
 
