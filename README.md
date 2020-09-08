@@ -20,7 +20,7 @@ You will work on an iOS app that likely other students have worked on before. If
 
 ### Provisioning Profile Installation
 
-3. Please fill out [this form](https://forms.gle/Uom2CMpSosmJH87j6) after your Build Week kickoff meeting. **You must fill out this form *once per team*.**
+3. Please fill out [this form](https://forms.gle/TsrvSk6XKZBgd8x6A) after your Build Week kickoff meeting. **You must fill out this form *once per team*.**
 4. Each app that gets uploaded to App Store Connect (the interface Apple provides for testing and distributing iOS apps) needs a provisioning profile. This file is unique to the Apple Developer account and to the app itself. When you filled out the form above, you provided name for the app you're working on for Build Week as well as the *bundle identifier*. Make sure the bundle ID from the form is the same as what's listed in Xcode's project properties screen.
     * Your instructor will provide each team with a provisioning profile for your app in Slack. The file will look something like this: `AppName_App_Store_Provisioning_Profile.mobileprovision`, where `AppName` is the name of your app project.
 5. Once the above file is downloaded to your Mac, open your Xcode project and go to the Xcode project properties screen (the blueprint icon in the file navigator). Click into the tab marked **Signing & Capabilities**.
