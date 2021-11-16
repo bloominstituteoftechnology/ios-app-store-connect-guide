@@ -1,6 +1,6 @@
 # Lambda App Store Connect Guide
 
-At the beginning of Unit 3 in iOS Core, you will be sent an invite to join the Lambda School Apple Developer program account. This invite will be sent to your lambdastudents.com email address.
+At the beginning of Unit 3 in iOS Core, you will be sent an invite to join the BloomTech Apple Developer program account. This invite will be sent to your lambdastudents.com email address.
 
 If you don't receive an email at the start of Unit 3, check the following:
 
@@ -13,7 +13,7 @@ You will work on an iOS app that likely other students have worked on before. If
 
 ### Certificate Installation
 
-1. Download Lambda School's distribution certificate to your computer. This file will be sent to your class in your private class channel at the start of Build Week in Unit 3 (uploading to TestFlight is recommended but not required in Unit 3, and required in Unit 4).
+1. Download BloomTech's distribution certificate to your computer. This file will be sent to your class in your private class channel at the start of Build Week in Unit 3 (uploading to TestFlight is recommended but not required in Unit 3, and required in Unit 4).
     * The filename for this certificate will look like this: `Lambda_Shared_Apple_All_Platforms_Distribution_Certificate.p12`
 2. Double click this file to install in your Mac's Keychain.
     * The Keychain app will ask for a password to install this certificate. Look for the password alongside the file in your cohort's class channel.
